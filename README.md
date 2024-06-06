@@ -26,7 +26,8 @@ muhammadasad.uet13@gmail.com
 
 
 
-Note:      
+Note:     
+-------------     
 The laboratory cyclic triaxial raw data is not shared here due to it is not publicly available in this repository. This is due to Chalmers University’s policy regarding data sharing. If one wishes to access or inquire about the raw data files, they should contact the thesis examiner for further information.
 
 Jelke Dijkstra     
