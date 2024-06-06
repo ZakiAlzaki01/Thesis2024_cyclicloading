@@ -1,4 +1,4 @@
-
+# Master-Thesis-Code
 
 Contained within this repository are the Python scripts utilized for the analysis in our Master’s thesis, which investigates Effect of cyclic loading on degradation of sensitivity clay for railway embankment.
 
@@ -7,7 +7,7 @@ For each sample of Natural Clay (NC) and Lime-Cement Mixture Clay (LCC), a dedic
 Flowchart illustrating Data Pre-Processing steps.![FLOWCHART2](https://github.com/ZakiAlzaki01/Thesis2024_cyclicloading/assets/96828893/34a1da42-2315-4f4f-9c01-dbefe57bfc12)
 
 
-Contact Information for Authors:  
+## Contact Information for Authors:  
 --------------------------------    
 
 
@@ -26,7 +26,7 @@ muhammadasad.uet13@gmail.com
 
 
 
-Note:     
+# Note:     
 -------------     
 The laboratory cyclic triaxial raw data is not shared here due to it is not publicly available in this repository. If one wishes to access or inquire about the raw data files, they should contact the thesis examiner for further information.
 
