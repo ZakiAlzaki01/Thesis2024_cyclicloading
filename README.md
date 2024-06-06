@@ -7,7 +7,8 @@ For each sample of Natural Clay (NC) and Lime-Cement Mixture Clay (LCC), a dedic
 Flowchart illustrating Data Pre-Processing steps.![FLOWCHART2](https://github.com/ZakiAlzaki01/Thesis2024_cyclicloading/assets/96828893/34a1da42-2315-4f4f-9c01-dbefe57bfc12)
 
 
-contact information for authors:
+Contact Information for Authors:
+
 Zaki Alzaki
 Master studet at Chalmers University of Technology, Gothenburg 
 zaki.alzaki@student.chalmeers.se
@@ -24,6 +25,7 @@ muhammadasad.uet13@gmail.com
 
 Note:
 The laboratory cyclic triaxial raw data is not shared here due to it is not publicly available in this repository. This is due to Chalmers University’s policy regarding data sharing. If one wishes to access or inquire about the raw data files, they should contact the thesis examiner for further information.
+
 Jelke Dijkstra 
 Professor/ Examiner 
 Chalmers University of Technology, Gothenburg  
