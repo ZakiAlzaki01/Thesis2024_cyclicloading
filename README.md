@@ -7,7 +7,7 @@ For each sample of Natural Clay (NC) and Lime-Cement Mixture Clay (LCC), a dedic
 Flowchart illustrating Data Pre-Processing steps.![FLOWCHART2](https://github.com/ZakiAlzaki01/Thesis2024_cyclicloading/assets/96828893/34a1da42-2315-4f4f-9c01-dbefe57bfc12)
 
 
-Contact Information for Authors:  
+Contact Information for Authors: 
 Zaki Alzaki
 Master studet at Chalmers University of Technology, Gothenburg 
 zaki.alzaki@student.chalmeers.se
